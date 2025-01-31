@@ -1,4 +1,5 @@
 {
+    "templateName": "whatever",
     "blueprintId": "ubuntu_24_04",
     "bundleId": "micro_3_0",
     "templateTutorial": "youtube",
